@@ -1,0 +1,1069 @@
+Patient ID,Age,Sex,Stage,Grade,Cancer Type,Sample Type,Tumour Subtype
+001,NA,NA,III,III,Ovarian cancer,NA,clear cell
+002,NA,NA,IV,III,Ovarian cancer,NA,clear cell
+003,NA,NA,I,III,Ovarian cancer,NA,clear cell
+004,NA,NA,I,NA,Ovarian cancer,NA,clear cell
+005,NA,NA,II,NA,Ovarian cancer,NA,clear cell
+006,NA,NA,I,NA,Ovarian cancer,NA,clear cell
+007,NA,NA,I,NA,Ovarian cancer,NA,clear cell
+008,NA,NA,I,NA,Ovarian cancer,NA,clear cell
+009,NA,NA,IV,III,Ovarian cancer,NA,endometrioid
+010,NA,NA,I,I,Ovarian cancer,NA,endometrioid
+011,NA,NA,IV,II,Ovarian cancer,NA,endometrioid
+012,NA,NA,II,II,Ovarian cancer,NA,endometrioid
+013,NA,NA,III,II,Ovarian cancer,NA,endometrioid
+014,NA,NA,I,I,Ovarian cancer,NA,endometrioid
+015,NA,NA,I,I,Ovarian cancer,NA,endometrioid
+016,NA,NA,I,I,Ovarian cancer,NA,endometrioid
+017,NA,NA,III,I,Ovarian cancer,NA,endometrioid
+018,NA,NA,I,II,Ovarian cancer,NA,endometrioid
+019,NA,NA,III,III,Ovarian cancer,NA,endometrioid
+020,NA,NA,I,II,Ovarian cancer,NA,endometrioid
+021,NA,NA,I,II,Ovarian cancer,NA,endometrioid
+022,NA,NA,IV,III,Ovarian cancer,NA,endometrioid
+023,NA,NA,I,III,Ovarian cancer,NA,endometrioid
+024,NA,NA,I,II,Ovarian cancer,NA,endometrioid
+025,NA,NA,II,III,Ovarian cancer,NA,endometrioid
+026,NA,NA,I,I,Ovarian cancer,NA,endometrioid
+027,NA,NA,I,I,Ovarian cancer,NA,endometrioid
+028,NA,NA,III,III,Ovarian cancer,NA,endometrioid
+029,NA,NA,II,II,Ovarian cancer,NA,endometrioid
+030,NA,NA,I,II,Ovarian cancer,NA,endometrioid
+031,NA,NA,III,III,Ovarian cancer,NA,endometrioid
+032,NA,NA,II,III,Ovarian cancer,NA,endometrioid
+033,NA,NA,II,II,Ovarian cancer,NA,endometrioid
+034,NA,NA,III,III,Ovarian cancer,NA,endometrioid
+035,NA,NA,I,I,Ovarian cancer,NA,endometrioid
+036,NA,NA,III,III,Ovarian cancer,NA,endometrioid
+037,NA,NA,III,II,Ovarian cancer,NA,endometrioid
+038,NA,NA,III,III,Ovarian cancer,NA,endometrioid
+039,NA,NA,I,I,Ovarian cancer,NA,endometrioid
+040,NA,NA,III,III,Ovarian cancer,NA,endometrioid
+041,NA,NA,I,I,Ovarian cancer,NA,endometrioid
+042,NA,NA,I,II,Ovarian cancer,NA,endometrioid
+043,NA,NA,III,III,Ovarian cancer,NA,endometrioid
+044,NA,NA,I,I,Ovarian cancer,NA,endometrioid
+045,NA,NA,I,II,Ovarian cancer,NA,endometrioid
+046,NA,NA,II,II,Ovarian cancer,NA,mucinous
+047,NA,NA,I,I,Ovarian cancer,NA,mucinous
+048,NA,NA,III,II,Ovarian cancer,NA,mucinous
+049,NA,NA,I,I,Ovarian cancer,NA,mucinous
+050,NA,NA,I,I,Ovarian cancer,NA,mucinous
+051,NA,NA,I,I,Ovarian cancer,NA,mucinous
+052,NA,NA,III,I,Ovarian cancer,NA,mucinous
+053,NA,NA,I,NA,Ovarian cancer,NA,mucinous
+054,NA,NA,I,NA,Ovarian cancer,NA,mucinous
+055,NA,NA,I,NA,Ovarian cancer,NA,mucinous
+056,NA,NA,I,NA,Ovarian cancer,NA,mucinous
+057,NA,NA,III,II,Ovarian cancer,NA,mucinous
+058,NA,NA,II,I,Ovarian cancer,NA,mucinous
+059,NA,NA,III,III,Ovarian cancer,NA,serous
+060,NA,NA,IV,III,Ovarian cancer,NA,serous
+061,NA,NA,III,III,Ovarian cancer,NA,serous
+062,NA,NA,III,III,Ovarian cancer,NA,serous
+063,NA,NA,III,II,Ovarian cancer,NA,serous
+064,NA,NA,III,II,Ovarian cancer,NA,serous
+065,NA,NA,III,III,Ovarian cancer,NA,serous
+066,NA,NA,III,NA,Ovarian cancer,NA,serous
+067,NA,NA,III,NA,Ovarian cancer,NA,serous
+068,NA,NA,I,III,Ovarian cancer,NA,serous
+069,NA,NA,IV,III,Ovarian cancer,NA,serous
+070,NA,NA,II,II,Ovarian cancer,NA,serous
+071,NA,NA,IV,II,Ovarian cancer,NA,serous
+072,NA,NA,III,III,Ovarian cancer,NA,serous
+073,NA,NA,III,I,Ovarian cancer,NA,serous
+074,NA,NA,III,NA,Ovarian cancer,NA,serous
+075,NA,NA,III,III,Ovarian cancer,NA,serous
+076,NA,NA,III,III,Ovarian cancer,NA,serous
+077,NA,NA,III,III,Ovarian cancer,NA,serous
+078,NA,NA,III,III,Ovarian cancer,NA,serous
+079,NA,NA,I,II,Ovarian cancer,NA,serous
+080,NA,NA,III,III,Ovarian cancer,NA,serous
+081,NA,NA,II,III,Ovarian cancer,NA,serous
+082,NA,NA,IV,NA,Ovarian cancer,NA,serous
+083,NA,NA,IV,NA,Ovarian cancer,NA,serous
+084,NA,NA,III,NA,Ovarian cancer,NA,serous
+085,NA,NA,III,NA,Ovarian cancer,NA,serous
+086,NA,NA,III,NA,Ovarian cancer,NA,serous
+087,NA,NA,III,NA,Ovarian cancer,NA,serous
+088,NA,NA,I,NA,Ovarian cancer,NA,serous
+089,NA,NA,II,NA,Ovarian cancer,NA,serous
+090,NA,NA,III,NA,Ovarian cancer,NA,serous
+091,NA,NA,III,NA,Ovarian cancer,NA,serous
+092,NA,NA,I,NA,Ovarian cancer,NA,serous
+093,NA,NA,III,NA,Ovarian cancer,NA,serous
+094,NA,NA,III,NA,Ovarian cancer,NA,serous
+095,NA,NA,III,II,Ovarian cancer,NA,serous
+096,NA,NA,III,III,Ovarian cancer,NA,serous
+097,NA,NA,III,III,Ovarian cancer,NA,serous
+098,NA,NA,III,I,Ovarian cancer,NA,serous
+099,NA,NA,III,III,Ovarian cancer,NA,serous
+100,NA,NA,NA,NA,NA,normal,NA
+101,NA,NA,NA,NA,NA,normal,NA
+102,NA,NA,NA,NA,NA,normal,NA
+103,NA,NA,NA,NA,NA,normal,NA
+104,NA,NA,NA,NA,Ovarian cancer,NA,serous
+105,NA,NA,NA,NA,Ovarian cancer,NA,serous
+106,NA,NA,NA,NA,Ovarian cancer,NA,serous
+107,NA,NA,NA,NA,Ovarian cancer,NA,serous
+108,NA,NA,NA,III,Ovarian cancer,NA,serous
+109,NA,NA,NA,III,Ovarian cancer,NA,serous
+110,NA,NA,NA,III,Ovarian cancer,NA,serous
+111,NA,NA,NA,III,Ovarian cancer,NA,serous
+112,NA,NA,NA,II,Ovarian cancer,NA,serous
+113,NA,NA,NA,III,Ovarian cancer,NA,serous
+114,NA,NA,NA,III,Ovarian cancer,NA,NA
+115,NA,NA,NA,III,Ovarian cancer,NA,NA
+116,NA,NA,NA,III,Ovarian cancer,NA,NA
+117,NA,NA,NA,NA,Ovarian cancer,NA,serous
+118,NA,NA,NA,NA,Ovarian cancer,NA,serous
+119,NA,NA,NA,III,Ovarian cancer,NA,endometrioid
+120,NA,NA,NA,III,Ovarian cancer,NA,serous
+121,NA,NA,NA,NA,Ovarian cancer,NA,serous
+122,NA,NA,NA,III,Ovarian cancer,NA,endometrioid
+123,NA,NA,NA,II,Ovarian cancer,NA,serous
+124,NA,NA,NA,NA,Ovarian cancer,NA,serous
+125,NA,NA,NA,II,Ovarian cancer,NA,clear cell
+126,NA,NA,NA,III,Ovarian cancer,NA,endometrioid
+127,NA,NA,NA,III,Ovarian cancer,NA,clear cell
+128,NA,NA,NA,III,Ovarian cancer,NA,clear cell
+129,NA,NA,NA,III,Ovarian cancer,NA,endometrioid
+130,NA,NA,NA,II,Ovarian cancer,NA,clear cell
+131,NA,NA,NA,III,Ovarian cancer,NA,clear cell
+132,NA,NA,NA,II,Ovarian cancer,NA,clear cell
+133,NA,NA,NA,III,Ovarian cancer,NA,clear cell
+134,NA,NA,NA,NA,Ovarian cancer,NA,serous
+135,NA,NA,NA,NA,Ovarian cancer,NA,serous
+136,NA,NA,NA,NA,Ovarian cancer,NA,serous
+137,NA,NA,NA,NA,Ovarian cancer,NA,serous
+138,NA,NA,NA,III,Ovarian cancer,NA,NA
+139,NA,NA,NA,II,Ovarian cancer,NA,endometrioid
+140,NA,NA,NA,NA,Ovarian cancer,NA,serous
+141,NA,NA,NA,III,Ovarian cancer,NA,serous
+142,NA,NA,NA,III,Ovarian cancer,NA,serous
+143,NA,NA,NA,III,Ovarian cancer,NA,serous
+144,NA,NA,NA,III,Ovarian cancer,NA,serous
+145,NA,NA,NA,III,Ovarian cancer,NA,serous
+146,NA,NA,NA,II,Ovarian cancer,NA,serous
+147,NA,NA,NA,II,Ovarian cancer,NA,serous
+148,NA,NA,NA,III,Ovarian cancer,NA,NA
+149,NA,NA,NA,III,Ovarian cancer,NA,NA
+150,NA,NA,NA,III,Ovarian cancer,NA,serous
+151,NA,NA,NA,III,Ovarian cancer,NA,serous
+152,NA,NA,NA,III,Ovarian cancer,NA,NA
+153,NA,NA,NA,III,Ovarian cancer,NA,serous
+154,NA,NA,NA,III,Ovarian cancer,NA,serous
+155,NA,NA,NA,I,Ovarian cancer,NA,endometrioid
+156,NA,NA,NA,II,Ovarian cancer,NA,serous
+157,NA,NA,NA,II,Ovarian cancer,NA,serous
+158,NA,NA,NA,II,Ovarian cancer,NA,clear cell
+159,NA,NA,NA,II,Ovarian cancer,NA,clear cell
+160,NA,NA,NA,III,Ovarian cancer,NA,serous
+161,NA,NA,NA,III,Ovarian cancer,NA,serous
+162,NA,NA,NA,II,Ovarian cancer,NA,NA
+163,NA,NA,NA,NA,Ovarian cancer,NA,serous
+164,NA,NA,NA,III,Ovarian cancer,NA,serous
+165,NA,NA,NA,II,Ovarian cancer,NA,serous
+166,NA,NA,NA,III,Ovarian cancer,NA,serous
+167,NA,NA,NA,III,Ovarian cancer,NA,serous
+168,NA,NA,NA,II,Ovarian cancer,NA,clear cell
+169,NA,NA,NA,NA,Ovarian cancer,NA,mucinous
+170,NA,NA,NA,III,Ovarian cancer,NA,serous
+171,NA,NA,NA,II,Ovarian cancer,NA,serous
+172,NA,NA,NA,III,Ovarian cancer,NA,serous
+173,NA,NA,NA,III,Ovarian cancer,NA,serous
+174,NA,NA,NA,III,Ovarian cancer,NA,endometrioid
+175,NA,NA,NA,III,Ovarian cancer,NA,clear cell
+176,NA,NA,NA,II,Ovarian cancer,NA,serous
+177,NA,NA,NA,III,Ovarian cancer,NA,NA
+178,43,NA,III,NA,Ovarian cancer,NA,serous
+179,43,NA,III,NA,Ovarian cancer,NA,serous
+180,58,NA,III,NA,Ovarian cancer,NA,serous
+181,72,NA,III,NA,Ovarian cancer,NA,serous
+182,60,NA,III,NA,Ovarian cancer,NA,serous
+183,50,NA,III,NA,Ovarian cancer,NA,serous
+184,43,NA,III,NA,Ovarian cancer,NA,serous
+185,62,NA,III,NA,Ovarian cancer,NA,serous
+186,49,NA,III,NA,Ovarian cancer,NA,serous
+187,77,NA,III,NA,Ovarian cancer,NA,serous
+188,52,NA,III,NA,Ovarian cancer,NA,serous
+189,36,NA,III,NA,Ovarian cancer,NA,serous
+190,44,NA,III,NA,Ovarian cancer,NA,serous
+191,84,NA,III,NA,Ovarian cancer,NA,serous
+192,60,NA,III,NA,Ovarian cancer,NA,serous
+193,70,NA,III,NA,Ovarian cancer,NA,serous
+194,65,NA,III,NA,Ovarian cancer,NA,serous
+195,54,NA,III,NA,Ovarian cancer,NA,serous
+196,35,NA,III,NA,Ovarian cancer,NA,serous
+197,40,NA,III,NA,Ovarian cancer,NA,serous
+198,41,NA,III,NA,Ovarian cancer,NA,serous
+199,56,NA,III,NA,Ovarian cancer,NA,serous
+200,76,NA,III,NA,Ovarian cancer,NA,serous
+201,56,NA,III,NA,Ovarian cancer,NA,serous
+202,73,NA,III,NA,Ovarian cancer,NA,serous
+203,59,NA,III,NA,Ovarian cancer,NA,serous
+204,67,NA,III,NA,Ovarian cancer,NA,serous
+205,59,NA,III,NA,Ovarian cancer,NA,serous
+206,70,NA,III,NA,Ovarian cancer,NA,serous
+207,54,NA,III,NA,Ovarian cancer,NA,serous
+208,56,NA,III,NA,Ovarian cancer,NA,serous
+209,69,NA,III,NA,Ovarian cancer,NA,serous
+210,59,NA,III,NA,Ovarian cancer,NA,serous
+211,73,NA,III,NA,Ovarian cancer,NA,serous
+212,64,NA,III,NA,Ovarian cancer,NA,serous
+213,74,NA,III,NA,Ovarian cancer,NA,serous
+214,64,NA,III,NA,Ovarian cancer,NA,serous
+215,75,NA,III,NA,Ovarian cancer,NA,serous
+216,54,NA,III,NA,Ovarian cancer,NA,serous
+217,65,NA,III,NA,Ovarian cancer,NA,serous
+218,77,NA,III,NA,Ovarian cancer,NA,serous
+219,52,NA,III,NA,Ovarian cancer,NA,serous
+220,63,NA,III,NA,Ovarian cancer,NA,serous
+221,70,NA,III,NA,Ovarian cancer,NA,serous
+222,55,NA,III,NA,Ovarian cancer,NA,serous
+223,43,NA,III,NA,Ovarian cancer,NA,serous
+224,65,NA,III,NA,Ovarian cancer,NA,serous
+225,47,NA,III,NA,Ovarian cancer,NA,serous
+226,50,NA,III,NA,Ovarian cancer,NA,serous
+227,62,NA,III,NA,Ovarian cancer,NA,serous
+228,68,NA,III,NA,Ovarian cancer,NA,serous
+229,51,NA,III,NA,Ovarian cancer,NA,serous
+230,70,NA,III,NA,Ovarian cancer,NA,serous
+231,82,NA,III,NA,Ovarian cancer,NA,serous
+232,NA,Female,NA,NA,NA,normal,NA
+233,NA,Female,NA,NA,NA,normal,NA
+234,NA,Female,NA,NA,NA,normal,NA
+235,NA,Female,NA,NA,NA,normal,NA
+236,NA,Female,NA,NA,NA,normal,NA
+237,NA,Female,NA,NA,NA,normal,NA
+238,NA,Female,NA,NA,NA,normal,NA
+239,NA,Female,NA,NA,NA,normal,NA
+240,NA,Female,NA,NA,NA,normal,NA
+241,NA,Female,NA,NA,NA,normal,NA
+242,NA,Female,IV,NA,Ovarian cancer,NA,NA
+243,NA,Female,IV,NA,Ovarian cancer,NA,serous
+244,NA,Female,IV,NA,Ovarian cancer,NA,serous
+245,NA,Female,IV,NA,Ovarian cancer,NA,serous
+246,NA,Female,IV,NA,Ovarian cancer,NA,serous
+247,NA,Female,IV,NA,Ovarian cancer,NA,serous
+248,NA,Female,IV,NA,Ovarian cancer,NA,serous
+249,NA,Female,IV,NA,Ovarian cancer,NA,serous
+250,NA,Female,IV,NA,Ovarian cancer,NA,serous
+251,NA,Female,IV,NA,Ovarian cancer,NA,serous
+252,NA,Female,IV,NA,Ovarian cancer,NA,serous
+253,NA,Female,IV,NA,Ovarian cancer,NA,serous
+254,NA,Female,IV,NA,Ovarian cancer,NA,serous
+255,NA,Female,IV,NA,Ovarian cancer,NA,serous
+256,NA,Female,IV,NA,Ovarian cancer,NA,serous
+257,NA,Female,IV,NA,Ovarian cancer,NA,serous
+258,NA,Female,IV,NA,Ovarian cancer,NA,serous
+259,NA,Female,IV,NA,Ovarian cancer,NA,serous
+260,NA,Female,IV,NA,Ovarian cancer,NA,serous
+261,NA,Female,IV,NA,Ovarian cancer,NA,serous
+262,NA,Female,IV,NA,Ovarian cancer,NA,serous
+263,NA,Female,IV,NA,Ovarian cancer,NA,serous
+264,NA,Female,IV,NA,Ovarian cancer,NA,serous
+265,NA,Female,IV,NA,Ovarian cancer,NA,serous
+266,NA,Female,IV,NA,Ovarian cancer,NA,serous
+267,NA,Female,IV,NA,Ovarian cancer,NA,serous
+268,NA,Female,IV,NA,Ovarian cancer,NA,serous
+269,NA,Female,IV,NA,Ovarian cancer,NA,serous
+270,NA,Female,IV,NA,Ovarian cancer,NA,serous
+271,NA,Female,IV,NA,Ovarian cancer,NA,serous
+272,NA,Female,IV,NA,Ovarian cancer,NA,serous
+273,NA,Female,IV,NA,Ovarian cancer,NA,serous
+274,NA,Female,IV,NA,Ovarian cancer,NA,serous
+275,NA,Female,IV,NA,Ovarian cancer,NA,serous
+276,NA,Female,IV,NA,Ovarian cancer,NA,serous
+277,NA,Female,I,NA,Ovarian cancer,NA,serous
+278,NA,Female,I,NA,Ovarian cancer,NA,serous
+279,NA,Female,I,NA,Ovarian cancer,NA,serous
+280,NA,Female,I,NA,Ovarian cancer,NA,serous
+281,NA,Female,I,NA,Ovarian cancer,NA,serous
+282,NA,Female,I,NA,Ovarian cancer,NA,serous
+283,NA,Female,I,NA,Ovarian cancer,NA,serous
+284,NA,Female,I,NA,Ovarian cancer,NA,serous
+285,NA,NA,NA,NA,Ovarian cancer,normal,NA
+286,NA,NA,NA,NA,Ovarian cancer,normal,NA
+287,NA,NA,NA,NA,Ovarian cancer,normal,NA
+288,NA,NA,NA,NA,Ovarian cancer,normal,NA
+289,NA,NA,NA,NA,Ovarian cancer,normal,NA
+290,NA,NA,NA,NA,Ovarian cancer,normal,NA
+291,NA,NA,NA,NA,Ovarian cancer,normal,NA
+292,NA,NA,NA,NA,Ovarian cancer,normal,NA
+293,NA,NA,NA,NA,Ovarian cancer,normal,NA
+294,NA,NA,NA,NA,Ovarian cancer,normal,NA
+295,NA,NA,IV,NA,Ovarian cancer,NA,NA
+296,NA,NA,IV,NA,Ovarian cancer,NA,NA
+297,NA,NA,IV,NA,Ovarian cancer,NA,NA
+298,NA,NA,IV,NA,Ovarian cancer,NA,NA
+299,NA,NA,IV,NA,Ovarian cancer,NA,NA
+300,NA,NA,IV,NA,Ovarian cancer,NA,NA
+301,NA,NA,IV,NA,Ovarian cancer,NA,NA
+302,NA,NA,IV,NA,Ovarian cancer,NA,NA
+303,NA,NA,IV,NA,Ovarian cancer,NA,NA
+304,NA,NA,IV,NA,Ovarian cancer,NA,NA
+305,NA,NA,IV,NA,Ovarian cancer,NA,NA
+306,NA,NA,IV,NA,Ovarian cancer,NA,NA
+307,NA,NA,IV,NA,Ovarian cancer,NA,NA
+308,NA,NA,IV,NA,Ovarian cancer,NA,NA
+309,NA,NA,IV,NA,Ovarian cancer,NA,NA
+310,NA,NA,IV,NA,Ovarian cancer,NA,NA
+311,NA,NA,IV,NA,Ovarian cancer,NA,NA
+312,NA,NA,IV,NA,Ovarian cancer,NA,NA
+313,NA,NA,IV,NA,Ovarian cancer,NA,NA
+314,NA,NA,IV,NA,Ovarian cancer,NA,NA
+315,NA,NA,IV,NA,Ovarian cancer,NA,NA
+316,NA,NA,IV,NA,Ovarian cancer,NA,NA
+317,NA,NA,IV,NA,Ovarian cancer,NA,NA
+318,NA,NA,IV,NA,Ovarian cancer,NA,NA
+319,NA,NA,IV,NA,Ovarian cancer,NA,NA
+320,NA,NA,IV,NA,Ovarian cancer,NA,NA
+321,NA,NA,IV,NA,Ovarian cancer,NA,NA
+322,NA,NA,IV,NA,Ovarian cancer,NA,NA
+323,NA,NA,IV,NA,Ovarian cancer,NA,NA
+324,NA,NA,IV,NA,Ovarian cancer,NA,NA
+325,NA,NA,IV,NA,Ovarian cancer,NA,NA
+326,NA,NA,IV,NA,Ovarian cancer,NA,NA
+327,NA,NA,IV,NA,Ovarian cancer,NA,NA
+328,NA,NA,IV,NA,Ovarian cancer,NA,NA
+329,NA,NA,IV,NA,Ovarian cancer,NA,NA
+330,NA,NA,IV,NA,Ovarian cancer,NA,NA
+331,NA,NA,IV,NA,Ovarian cancer,NA,NA
+332,NA,NA,IV,NA,Ovarian cancer,NA,NA
+333,NA,NA,IV,NA,Ovarian cancer,NA,NA
+334,NA,NA,IV,NA,Ovarian cancer,NA,NA
+335,NA,NA,IV,NA,Ovarian cancer,NA,NA
+336,NA,NA,IV,NA,Ovarian cancer,NA,NA
+337,NA,NA,IV,NA,Ovarian cancer,NA,NA
+338,NA,NA,IV,NA,Ovarian cancer,NA,NA
+339,NA,NA,IV,NA,Ovarian cancer,NA,NA
+340,NA,NA,IV,NA,Ovarian cancer,NA,NA
+341,NA,NA,IV,NA,Ovarian cancer,NA,NA
+342,NA,NA,IV,NA,Ovarian cancer,NA,NA
+343,NA,NA,IV,NA,Ovarian cancer,NA,NA
+344,NA,NA,IV,NA,Ovarian cancer,NA,NA
+345,NA,NA,IV,NA,Ovarian cancer,NA,NA
+346,NA,NA,IV,NA,Ovarian cancer,NA,NA
+347,NA,NA,IV,NA,Ovarian cancer,NA,NA
+348,NA,NA,IV,NA,Ovarian cancer,NA,NA
+349,NA,NA,IV,NA,Ovarian cancer,NA,NA
+350,NA,NA,IV,NA,Ovarian cancer,NA,NA
+351,NA,NA,IV,NA,Ovarian cancer,NA,NA
+352,NA,NA,IV,NA,Ovarian cancer,NA,NA
+353,NA,NA,IV,NA,Ovarian cancer,NA,NA
+354,NA,NA,IV,NA,Ovarian cancer,NA,NA
+355,NA,NA,IV,NA,Ovarian cancer,NA,NA
+356,NA,NA,IV,NA,Ovarian cancer,NA,NA
+357,NA,NA,IV,NA,Ovarian cancer,NA,NA
+358,NA,NA,IV,NA,Ovarian cancer,NA,NA
+359,NA,NA,IV,NA,Ovarian cancer,NA,NA
+360,NA,NA,IV,NA,Ovarian cancer,NA,NA
+361,NA,NA,IV,NA,Ovarian cancer,NA,NA
+362,NA,NA,IV,NA,Ovarian cancer,NA,NA
+363,NA,NA,IV,NA,Ovarian cancer,NA,NA
+364,NA,NA,IV,NA,Ovarian cancer,NA,NA
+365,NA,NA,IV,NA,Ovarian cancer,NA,NA
+366,NA,NA,IV,NA,Ovarian cancer,NA,NA
+367,NA,NA,IV,NA,Ovarian cancer,NA,NA
+368,NA,NA,IV,NA,Ovarian cancer,NA,NA
+369,NA,NA,IV,NA,Ovarian cancer,NA,NA
+370,NA,NA,IV,NA,Ovarian cancer,NA,NA
+371,NA,NA,IV,NA,Ovarian cancer,NA,NA
+372,NA,NA,IV,NA,Ovarian cancer,NA,NA
+373,NA,NA,IV,NA,Ovarian cancer,NA,NA
+374,NA,NA,IV,NA,Ovarian cancer,NA,NA
+375,NA,NA,IV,NA,Ovarian cancer,NA,NA
+376,NA,NA,IV,NA,Ovarian cancer,NA,NA
+377,NA,NA,IV,NA,Ovarian cancer,NA,NA
+378,NA,NA,IV,NA,Ovarian cancer,NA,NA
+379,NA,NA,IV,NA,Ovarian cancer,NA,NA
+380,NA,NA,IV,NA,Ovarian cancer,NA,NA
+381,NA,NA,IV,NA,Ovarian cancer,NA,NA
+382,NA,NA,IV,NA,Ovarian cancer,NA,NA
+383,NA,NA,IV,NA,Ovarian cancer,NA,NA
+384,NA,NA,IV,NA,Ovarian cancer,NA,NA
+385,NA,NA,IV,NA,Ovarian cancer,NA,NA
+386,NA,NA,IV,NA,Ovarian cancer,NA,NA
+387,NA,NA,IV,NA,Ovarian cancer,NA,NA
+388,NA,NA,IV,NA,Ovarian cancer,NA,NA
+389,NA,NA,IV,NA,Ovarian cancer,NA,NA
+390,NA,NA,IV,NA,Ovarian cancer,NA,NA
+391,NA,NA,IV,NA,Ovarian cancer,NA,NA
+392,NA,NA,IV,NA,Ovarian cancer,NA,NA
+393,NA,NA,IV,NA,Ovarian cancer,NA,NA
+394,NA,NA,IV,NA,Ovarian cancer,NA,NA
+395,NA,NA,IV,NA,Ovarian cancer,NA,NA
+396,NA,NA,IV,NA,Ovarian cancer,NA,NA
+397,NA,NA,IV,NA,Ovarian cancer,NA,NA
+398,NA,NA,IV,NA,Ovarian cancer,NA,NA
+399,NA,NA,IV,NA,Ovarian cancer,NA,NA
+400,NA,NA,IV,NA,Ovarian cancer,NA,NA
+401,NA,NA,IV,NA,Ovarian cancer,NA,NA
+402,NA,NA,IV,NA,Ovarian cancer,NA,NA
+403,NA,NA,IV,NA,Ovarian cancer,NA,NA
+404,NA,NA,IV,NA,Ovarian cancer,NA,NA
+405,NA,NA,IV,NA,Ovarian cancer,NA,NA
+406,NA,NA,IV,NA,Ovarian cancer,NA,NA
+407,NA,NA,IV,NA,Ovarian cancer,NA,NA
+408,NA,NA,IV,NA,Ovarian cancer,NA,NA
+409,NA,NA,IV,NA,Ovarian cancer,NA,NA
+410,NA,NA,IV,NA,Ovarian cancer,NA,NA
+411,NA,NA,IV,NA,Ovarian cancer,NA,NA
+412,NA,NA,IV,NA,Ovarian cancer,NA,NA
+413,NA,NA,IV,NA,Ovarian cancer,NA,NA
+414,NA,NA,IV,NA,Ovarian cancer,NA,NA
+415,NA,NA,IV,NA,Ovarian cancer,NA,NA
+416,NA,NA,IV,NA,Ovarian cancer,NA,NA
+417,NA,NA,IV,NA,Ovarian cancer,NA,NA
+418,NA,NA,IV,NA,Ovarian cancer,NA,NA
+419,NA,NA,IV,NA,Ovarian cancer,NA,NA
+420,NA,NA,IV,NA,Ovarian cancer,NA,NA
+421,NA,NA,IV,NA,Ovarian cancer,NA,NA
+422,NA,NA,IV,NA,Ovarian cancer,NA,NA
+423,NA,NA,IV,NA,Ovarian cancer,NA,NA
+424,NA,NA,IV,NA,Ovarian cancer,NA,NA
+425,NA,NA,IV,NA,Ovarian cancer,NA,NA
+426,NA,NA,IV,NA,Ovarian cancer,NA,NA
+427,NA,NA,IV,NA,Ovarian cancer,NA,NA
+428,NA,NA,IV,NA,Ovarian cancer,NA,NA
+429,NA,NA,IV,NA,Ovarian cancer,NA,NA
+430,NA,NA,IV,NA,Ovarian cancer,NA,NA
+431,NA,NA,IV,NA,Ovarian cancer,NA,NA
+432,NA,NA,IV,NA,Ovarian cancer,NA,NA
+433,NA,NA,IV,NA,Ovarian cancer,NA,NA
+434,NA,NA,IV,NA,Ovarian cancer,NA,NA
+435,NA,NA,IV,NA,Ovarian cancer,NA,NA
+436,NA,NA,IV,NA,Ovarian cancer,NA,NA
+437,NA,NA,IV,NA,Ovarian cancer,NA,NA
+438,NA,NA,IV,NA,Ovarian cancer,NA,NA
+439,NA,NA,IV,NA,Ovarian cancer,NA,NA
+440,NA,NA,IV,NA,Ovarian cancer,NA,NA
+441,NA,NA,IV,NA,Ovarian cancer,NA,NA
+442,NA,NA,IV,NA,Ovarian cancer,NA,NA
+443,NA,NA,IV,NA,Ovarian cancer,NA,NA
+444,NA,NA,IV,NA,Ovarian cancer,NA,NA
+445,NA,NA,IV,NA,Ovarian cancer,NA,NA
+446,NA,NA,IV,NA,Ovarian cancer,NA,NA
+447,NA,NA,IV,NA,Ovarian cancer,NA,NA
+448,NA,NA,IV,NA,Ovarian cancer,NA,NA
+449,NA,NA,IV,NA,Ovarian cancer,NA,NA
+450,NA,NA,IV,NA,Ovarian cancer,NA,NA
+451,NA,NA,IV,NA,Ovarian cancer,NA,NA
+452,NA,NA,IV,NA,Ovarian cancer,NA,NA
+453,NA,NA,IV,NA,Ovarian cancer,NA,NA
+454,NA,NA,IV,NA,Ovarian cancer,NA,NA
+455,NA,NA,IV,NA,Ovarian cancer,NA,NA
+456,NA,NA,IV,NA,Ovarian cancer,NA,NA
+457,NA,NA,IV,NA,Ovarian cancer,NA,NA
+458,NA,NA,IV,NA,Ovarian cancer,NA,NA
+459,NA,NA,IV,NA,Ovarian cancer,NA,NA
+460,NA,NA,IV,NA,Ovarian cancer,NA,NA
+461,NA,NA,IV,NA,Ovarian cancer,NA,NA
+462,NA,NA,IV,NA,Ovarian cancer,NA,NA
+463,NA,NA,IV,NA,Ovarian cancer,NA,NA
+464,NA,NA,IV,NA,Ovarian cancer,NA,NA
+465,NA,NA,IV,NA,Ovarian cancer,NA,NA
+466,NA,NA,IV,NA,Ovarian cancer,NA,NA
+467,NA,NA,IV,NA,Ovarian cancer,NA,NA
+468,NA,NA,IV,NA,Ovarian cancer,NA,NA
+469,NA,NA,IV,NA,Ovarian cancer,NA,NA
+470,NA,NA,IV,NA,Ovarian cancer,NA,NA
+471,NA,NA,IV,NA,Ovarian cancer,NA,NA
+472,NA,NA,IV,NA,Ovarian cancer,NA,NA
+473,NA,NA,IV,NA,Ovarian cancer,NA,NA
+474,NA,NA,IV,NA,Ovarian cancer,NA,NA
+475,NA,NA,IV,NA,Ovarian cancer,NA,NA
+476,NA,NA,IV,NA,Ovarian cancer,NA,NA
+477,NA,NA,IV,NA,Ovarian cancer,NA,NA
+478,NA,NA,IV,NA,Ovarian cancer,NA,NA
+479,NA,NA,IV,NA,Ovarian cancer,NA,NA
+480,NA,NA,NA,NA,Breast cancer,normal,NA
+481,NA,NA,NA,NA,Breast cancer,normal,NA
+482,NA,NA,NA,NA,Breast cancer,normal,NA
+483,NA,NA,NA,NA,Breast cancer,normal,NA
+484,NA,NA,NA,NA,Breast cancer,normal,NA
+485,NA,NA,NA,NA,Breast cancer,normal,NA
+486,NA,NA,NA,NA,Breast cancer,normal,NA
+487,NA,NA,NA,NA,Breast cancer,normal,NA
+488,NA,NA,NA,NA,Breast cancer,normal,NA
+489,NA,NA,NA,NA,Breast cancer,normal,NA
+490,NA,NA,NA,NA,Breast cancer,normal,NA
+491,NA,NA,NA,NA,Breast cancer,normal,NA
+492,NA,NA,NA,NA,Breast cancer,normal,NA
+493,NA,NA,NA,NA,Breast cancer,normal,NA
+494,NA,NA,NA,NA,Breast cancer,normal,NA
+495,NA,NA,NA,NA,Breast cancer,normal,NA
+496,NA,NA,NA,NA,Breast cancer,normal,NA
+497,74,NA,NA,II,Breast cancer,NA,NA
+498,67,NA,NA,II,Breast cancer,NA,NA
+499,53,NA,NA,I,Breast cancer,NA,NA
+500,43,NA,NA,III,Breast cancer,NA,NA
+501,51,NA,NA,III,Breast cancer,NA,NA
+502,42,NA,NA,III,Breast cancer,NA,NA
+503,52,NA,NA,III,Breast cancer,NA,NA
+504,43,NA,NA,II,Breast cancer,NA,NA
+505,45,NA,NA,III,Breast cancer,NA,NA
+506,78,NA,NA,II,Breast cancer,NA,NA
+507,56,NA,NA,III,Breast cancer,NA,NA
+508,54,NA,NA,III,Breast cancer,NA,NA
+509,49,NA,NA,III,Breast cancer,NA,NA
+510,51,NA,NA,III,Breast cancer,NA,NA
+511,63,NA,NA,II,Breast cancer,NA,NA
+512,43,NA,NA,III,Breast cancer,NA,NA
+513,76,NA,NA,III,Breast cancer,NA,NA
+514,68,NA,NA,III,Breast cancer,NA,NA
+515,82,NA,NA,I,Breast cancer,NA,NA
+516,73,NA,NA,III,Breast cancer,NA,NA
+517,77,NA,NA,I,Breast cancer,NA,NA
+518,65,NA,NA,III,Breast cancer,NA,NA
+519,47,NA,NA,II,Breast cancer,NA,NA
+520,57,NA,NA,III,Breast cancer,NA,NA
+521,38,NA,NA,III,Breast cancer,NA,NA
+522,49,NA,NA,III,Breast cancer,NA,NA
+523,80,NA,NA,III,Breast cancer,NA,NA
+524,58,NA,NA,III,Breast cancer,NA,NA
+525,46,NA,NA,II,Breast cancer,NA,NA
+526,50,NA,NA,III,Breast cancer,NA,NA
+527,50,NA,NA,III,Breast cancer,NA,NA
+528,42,NA,NA,III,Breast cancer,NA,NA
+529,73,NA,NA,II,Breast cancer,NA,NA
+530,53,NA,NA,III,Breast cancer,NA,NA
+531,72,NA,NA,III,Breast cancer,NA,NA
+532,54,NA,NA,III,Breast cancer,NA,NA
+533,53,NA,NA,II,Breast cancer,NA,NA
+534,54,NA,NA,III,Breast cancer,NA,NA
+535,48,NA,NA,III,Breast cancer,NA,NA
+536,60,NA,NA,I,Breast cancer,NA,NA
+537,52,NA,NA,III,Breast cancer,NA,NA
+538,62,NA,NA,II,Breast cancer,NA,NA
+539,43,NA,NA,III,Breast cancer,NA,NA
+540,72,NA,NA,II,Breast cancer,NA,NA
+541,54,NA,NA,II,Breast cancer,NA,NA
+542,73,NA,NA,III,Breast cancer,NA,NA
+543,78,NA,NA,II,Breast cancer,NA,NA
+544,74,NA,NA,II,Breast cancer,NA,NA
+545,74,NA,NA,I,Breast cancer,NA,NA
+546,75,NA,NA,II,Breast cancer,NA,NA
+547,67,NA,NA,II,Breast cancer,NA,NA
+548,50,NA,NA,II,Breast cancer,NA,NA
+549,69,NA,NA,II,Breast cancer,NA,NA
+550,31,NA,NA,III,Breast cancer,NA,NA
+551,71,NA,NA,III,Breast cancer,NA,NA
+552,60,NA,NA,III,Breast cancer,NA,NA
+553,65,NA,NA,III,Breast cancer,NA,NA
+554,67,NA,NA,II,Breast cancer,NA,NA
+555,56,NA,NA,III,Breast cancer,NA,NA
+556,69,NA,NA,II,Breast cancer,NA,NA
+557,65,NA,NA,II,Breast cancer,NA,NA
+558,61,NA,NA,III,Breast cancer,NA,NA
+559,46,NA,NA,III,Breast cancer,NA,NA
+560,52,NA,NA,III,Breast cancer,NA,NA
+561,56,NA,NA,I,Breast cancer,NA,NA
+562,59,NA,NA,III,Breast cancer,NA,NA
+563,50,NA,NA,III,Breast cancer,NA,NA
+564,75,NA,NA,III,Breast cancer,NA,NA
+565,59,NA,NA,III,Breast cancer,NA,NA
+566,48,NA,NA,III,Breast cancer,NA,NA
+567,38,NA,NA,II,Breast cancer,NA,NA
+568,46,NA,NA,II,Breast cancer,NA,NA
+569,48,NA,NA,III,Breast cancer,NA,NA
+570,47,NA,NA,II,Breast cancer,NA,NA
+571,67,NA,NA,III,Breast cancer,NA,NA
+572,46,NA,NA,II,Breast cancer,NA,NA
+573,71,NA,NA,III,Breast cancer,NA,NA
+574,66,NA,NA,II,Breast cancer,NA,NA
+575,68,NA,NA,II,Breast cancer,NA,NA
+576,67,NA,NA,I,Breast cancer,NA,NA
+577,47,NA,NA,II,Breast cancer,NA,NA
+578,44,NA,NA,I,Breast cancer,NA,NA
+579,55,NA,NA,II,Breast cancer,NA,NA
+580,55,NA,NA,II,Breast cancer,NA,NA
+581,51,NA,NA,I,Breast cancer,NA,NA
+582,54,NA,NA,III,Breast cancer,NA,NA
+583,68,NA,NA,II,Breast cancer,NA,NA
+584,56,NA,NA,I,Breast cancer,NA,NA
+585,60,NA,NA,III,Breast cancer,NA,NA
+586,89,NA,NA,III,Breast cancer,NA,NA
+587,73,NA,NA,II,Breast cancer,NA,NA
+588,61,NA,NA,II,Breast cancer,NA,NA
+589,57,NA,NA,III,Breast cancer,NA,NA
+590,56,NA,NA,II,Breast cancer,NA,NA
+591,75,NA,NA,II,Breast cancer,NA,NA
+592,41,NA,NA,III,Breast cancer,NA,NA
+593,53,NA,NA,III,Breast cancer,NA,NA
+594,55,NA,NA,II,Breast cancer,NA,NA
+595,60,NA,NA,III,Breast cancer,NA,NA
+596,46,NA,NA,II,Breast cancer,NA,NA
+597,47,NA,NA,I,Breast cancer,NA,NA
+598,48,NA,NA,II,Breast cancer,NA,NA
+599,70,NA,NA,II,Breast cancer,NA,NA
+600,62,NA,NA,II,Breast cancer,NA,NA
+601,NA,NA,NA,NA,NA,NA,NA
+602,NA,NA,NA,NA,NA,NA,NA
+603,NA,NA,NA,NA,NA,NA,NA
+604,NA,NA,NA,NA,Breast cancer,NA,ductal
+605,NA,NA,NA,NA,Breast cancer,NA,ductal
+606,NA,NA,NA,NA,Breast cancer,NA,ductal
+607,NA,NA,NA,NA,Breast cancer,NA,ductal
+608,NA,NA,NA,NA,Breast cancer,NA,ductal
+609,NA,NA,NA,NA,Breast cancer,NA,ductal
+610,NA,NA,NA,NA,Breast cancer,NA,ductal
+611,NA,NA,NA,NA,Breast cancer,NA,ductal
+612,NA,NA,NA,NA,Breast cancer,NA,ductal
+613,NA,NA,NA,NA,Breast cancer,NA,ductal
+614,NA,NA,NA,NA,Breast cancer,NA,ductal
+615,NA,NA,NA,NA,Breast cancer,NA,ductal
+616,NA,NA,NA,NA,Breast cancer,NA,ductal
+617,NA,NA,NA,NA,Breast cancer,NA,ductal
+618,NA,NA,NA,NA,Breast cancer,NA,ductal
+619,NA,NA,NA,NA,Breast cancer,NA,ductal
+620,NA,NA,NA,NA,Breast cancer,primary tumour,ductal
+621,NA,NA,NA,NA,Breast cancer,primary tumour,ductal
+622,NA,NA,NA,NA,Breast cancer,primary tumour,ductal
+623,NA,NA,NA,NA,Breast cancer,primary tumour,ductal
+624,NA,NA,NA,NA,Breast cancer,primary tumour,ductal
+625,NA,NA,NA,NA,Breast cancer,primary tumour,ductal
+626,NA,NA,NA,NA,Breast cancer,primary tumour,ductal
+627,NA,NA,NA,NA,Breast cancer,primary tumour,ductal
+628,NA,NA,NA,NA,Breast cancer,primary tumour,ductal
+629,NA,NA,NA,NA,Breast cancer,primary tumour,ductal
+630,NA,NA,NA,NA,Breast cancer,primary tumour,ductal
+631,NA,NA,NA,NA,Breast cancer,primary tumour,ductal
+632,NA,NA,NA,NA,Breast cancer,primary tumour,ductal
+633,NA,NA,NA,NA,Breast cancer,primary tumour,ductal
+634,NA,NA,NA,NA,Breast cancer,primary tumour,ductal
+635,NA,NA,NA,NA,Breast cancer,primary tumour,ductal
+636,NA,NA,NA,NA,Breast cancer,primary tumour,ductal
+637,NA,NA,NA,NA,Breast cancer,primary tumour,ductal
+638,NA,NA,NA,NA,Breast cancer,primary tumour,ductal
+639,NA,NA,NA,NA,Breast cancer,primary tumour,ductal
+640,NA,NA,NA,NA,Breast cancer,primary tumour,ductal
+641,NA,NA,NA,NA,Breast cancer,primary tumour,ductal
+642,NA,NA,NA,NA,Breast cancer,primary tumour,ductal
+643,NA,NA,NA,NA,Breast cancer,primary tumour,ductal
+644,NA,NA,NA,NA,Breast cancer,primary tumour,ductal
+645,NA,NA,I,NA,Breast cancer,primary tumour,ductal
+646,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+647,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+648,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+649,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+650,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+651,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+652,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+653,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+654,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+655,NA,NA,I,NA,Breast cancer,primary tumour,ductal
+656,NA,NA,I,NA,Breast cancer,primary tumour,ductal
+657,NA,NA,I,NA,Breast cancer,primary tumour,ductal
+658,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+659,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+660,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+661,NA,NA,I,NA,Breast cancer,primary tumour,ductal
+662,NA,NA,I,NA,Breast cancer,primary tumour,ductal
+663,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+664,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+665,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+666,NA,NA,I,NA,Breast cancer,primary tumour,ductal
+667,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+668,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+669,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+670,NA,NA,I,NA,Breast cancer,primary tumour,ductal
+671,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+672,NA,NA,I,NA,Breast cancer,primary tumour,ductal
+673,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+674,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+675,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+676,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+677,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+678,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+679,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+680,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+681,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+682,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+683,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+684,NA,NA,I,NA,Breast cancer,primary tumour,ductal
+685,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+686,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+687,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+688,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+689,NA,NA,I,NA,Breast cancer,primary tumour,ductal
+690,NA,NA,I,NA,Breast cancer,primary tumour,ductal
+691,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+692,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+693,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+694,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+695,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+696,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+697,NA,NA,I,NA,Breast cancer,primary tumour,ductal
+698,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+699,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+700,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+701,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+702,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+703,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+704,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+705,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+706,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+707,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+708,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+709,NA,NA,I,NA,Breast cancer,primary tumour,ductal
+710,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+711,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+712,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+713,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+714,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+715,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+716,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+717,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+718,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+719,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+720,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+721,NA,NA,I,NA,Breast cancer,primary tumour,clear cell
+722,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+723,NA,NA,I,NA,Breast cancer,primary tumour,ductal
+724,NA,NA,I,NA,Breast cancer,primary tumour,ductal
+725,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+726,NA,NA,I,NA,Breast cancer,primary tumour,ductal
+727,NA,NA,I,NA,Breast cancer,primary tumour,ductal
+728,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+729,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+730,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+731,NA,NA,I,NA,Breast cancer,primary tumour,ductal
+732,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+733,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+734,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+735,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+736,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+737,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+738,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+739,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+740,NA,NA,I,NA,Breast cancer,primary tumour,ductal
+741,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+742,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+743,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+744,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+745,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+746,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+747,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+748,NA,NA,I,NA,Breast cancer,primary tumour,ductal
+749,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+750,NA,NA,I,NA,Breast cancer,primary tumour,ductal
+751,NA,NA,I,NA,Breast cancer,primary tumour,ductal
+752,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+753,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+754,NA,NA,I,NA,Breast cancer,primary tumour,ductal
+755,NA,NA,I,NA,Breast cancer,primary tumour,ductal
+756,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+757,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+758,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+759,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+760,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+761,NA,NA,I,NA,Breast cancer,primary tumour,ductal
+762,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+763,NA,NA,I,NA,Breast cancer,primary tumour,ductal
+764,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+765,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+766,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+767,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+768,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+769,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+770,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+771,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+772,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+773,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+774,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+775,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+776,NA,NA,I,NA,Breast cancer,primary tumour,clear cell
+777,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+778,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+779,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+780,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+781,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+782,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+783,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+784,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+785,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+786,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+787,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+788,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+789,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+790,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+791,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+792,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+793,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+794,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+795,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+796,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+797,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+798,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+799,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+800,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+801,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+802,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+803,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+804,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+805,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+806,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+807,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+808,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+809,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+810,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+811,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+812,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+813,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+814,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+815,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+816,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+817,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+818,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+819,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+820,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+821,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+822,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+823,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+824,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+825,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+826,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+827,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+828,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+829,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+830,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+831,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+832,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+833,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+834,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+835,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+836,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+837,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+838,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+839,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+840,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+841,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+842,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+843,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+844,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+845,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+846,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+847,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+848,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+849,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+850,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+851,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+852,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+853,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+854,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+855,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+856,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+857,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+858,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+859,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+860,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+861,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+862,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+863,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+864,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+865,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+866,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+867,NA,NA,II,NA,Breast cancer,primary tumour,clear cell
+868,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+869,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+870,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+871,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+872,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+873,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+874,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+875,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+876,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+877,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+878,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+879,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+880,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+881,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+882,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+883,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+884,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+885,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+886,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+887,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+888,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+889,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+890,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+891,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+892,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+893,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+894,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+895,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+896,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+897,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+898,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+899,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+900,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+901,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+902,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+903,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+904,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+905,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+906,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+907,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+908,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+909,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+910,NA,NA,II,NA,Breast cancer,primary tumour,clear cell
+911,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+912,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+913,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+914,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+915,NA,NA,II,NA,Breast cancer,primary tumour,clear cell
+916,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+917,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+918,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+919,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+920,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+921,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+922,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+923,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+924,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+925,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+926,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+927,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+928,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+929,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+930,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+931,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+932,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+933,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+934,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+935,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+936,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+937,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+938,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+939,NA,NA,II,NA,Breast cancer,primary tumour,clear cell
+940,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+941,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+942,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+943,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+944,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+945,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+946,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+947,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+948,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+949,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+950,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+951,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+952,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+953,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+954,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+955,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+956,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+957,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+958,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+959,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+960,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+961,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+962,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+963,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+964,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+965,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+966,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+967,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+968,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+969,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+970,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+971,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+972,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+973,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+974,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+975,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+976,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+977,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+978,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+979,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+980,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+981,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+982,NA,NA,II,NA,Breast cancer,primary tumour,apocrine
+983,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+984,NA,NA,II,NA,Breast cancer,primary tumour,ductal
+985,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+986,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+987,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+988,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+989,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+990,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+991,NA,NA,II,NA,Breast cancer,primary tumour,lobular
+992,NA,NA,III,NA,Breast cancer,primary tumour,lobular
+993,NA,NA,III,NA,Breast cancer,primary tumour,ductal
+994,NA,NA,III,NA,Breast cancer,primary tumour,lobular
+995,NA,NA,III,NA,Breast cancer,primary tumour,ductal
+996,NA,NA,III,NA,Breast cancer,primary tumour,ductal
+997,NA,NA,III,NA,Breast cancer,primary tumour,lobular
+998,NA,NA,III,NA,Breast cancer,primary tumour,lobular
+999,NA,NA,III,NA,Breast cancer,primary tumour,lobular
+1000,NA,NA,III,NA,Breast cancer,primary tumour,lobular
+1001,NA,NA,III,NA,Breast cancer,primary tumour,lobular
+1002,NA,NA,III,NA,Breast cancer,primary tumour,lobular
+1003,NA,NA,III,NA,Breast cancer,primary tumour,apocrine
+1004,NA,NA,III,NA,Breast cancer,primary tumour,lobular
+1005,NA,NA,III,NA,Breast cancer,primary tumour,ductal
+1006,NA,NA,III,NA,Breast cancer,primary tumour,ductal
+1007,NA,NA,III,NA,Breast cancer,primary tumour,ductal
+1008,NA,NA,III,NA,Breast cancer,primary tumour,lobular
+1009,NA,NA,III,NA,Breast cancer,primary tumour,apocrine
+1010,NA,NA,III,NA,Breast cancer,primary tumour,apocrine
+1011,NA,NA,III,NA,Breast cancer,primary tumour,lobular
+1012,NA,NA,III,NA,Breast cancer,primary tumour,apocrine
+1013,NA,NA,III,NA,Breast cancer,primary tumour,apocrine
+1014,NA,NA,III,NA,Breast cancer,primary tumour,lobular
+1015,NA,NA,III,NA,Breast cancer,primary tumour,apocrine
+1016,NA,NA,III,NA,Breast cancer,primary tumour,apocrine
+1017,NA,NA,III,NA,Breast cancer,primary tumour,apocrine
+1018,NA,NA,III,NA,Breast cancer,primary tumour,ductal
+1019,NA,NA,III,NA,Breast cancer,primary tumour,apocrine
+1020,NA,NA,III,NA,Breast cancer,primary tumour,ductal
+1021,NA,NA,III,NA,Breast cancer,primary tumour,ductal
+1022,NA,NA,III,NA,Breast cancer,primary tumour,lobular
+1023,NA,NA,III,NA,Breast cancer,primary tumour,lobular
+1024,NA,NA,III,NA,Breast cancer,primary tumour,lobular
+1025,NA,NA,III,NA,Breast cancer,primary tumour,lobular
+1026,NA,NA,III,NA,Breast cancer,primary tumour,lobular
+1027,NA,NA,III,NA,Breast cancer,primary tumour,lobular
+1028,NA,NA,III,NA,Breast cancer,primary tumour,lobular
+1029,NA,NA,III,NA,Breast cancer,primary tumour,apocrine
+1030,NA,NA,III,NA,Breast cancer,primary tumour,ductal
+1031,NA,NA,III,NA,Breast cancer,primary tumour,lobular
+1032,NA,NA,III,NA,Breast cancer,primary tumour,apocrine
+1033,NA,NA,III,NA,Breast cancer,primary tumour,lobular
+1034,NA,NA,III,NA,Breast cancer,primary tumour,lobular
+1035,NA,NA,III,NA,Breast cancer,primary tumour,lobular
+1036,NA,NA,III,NA,Breast cancer,primary tumour,lobular
+1037,NA,NA,III,NA,Breast cancer,primary tumour,ductal
+1038,NA,NA,III,NA,Breast cancer,primary tumour,ductal
+1039,NA,NA,III,NA,Breast cancer,primary tumour,apocrine
+1040,NA,NA,III,NA,Breast cancer,primary tumour,apocrine
+1041,NA,NA,III,NA,Breast cancer,primary tumour,apocrine
+1042,NA,NA,III,NA,Breast cancer,primary tumour,apocrine
+1043,NA,NA,III,NA,Breast cancer,primary tumour,ductal
+1044,NA,NA,III,NA,Breast cancer,primary tumour,ductal
+1045,NA,NA,III,NA,Breast cancer,primary tumour,apocrine
+1046,NA,NA,III,NA,Breast cancer,primary tumour,ductal
+1047,NA,NA,III,NA,Breast cancer,primary tumour,ductal
+1048,NA,NA,III,NA,Breast cancer,primary tumour,apocrine
+1049,NA,NA,III,NA,Breast cancer,primary tumour,lobular
+1050,NA,NA,III,NA,Breast cancer,primary tumour,lobular
+1051,NA,NA,III,NA,Breast cancer,primary tumour,lobular
+1052,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+1053,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+1054,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+1055,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+1056,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+1057,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+1058,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+1059,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+1060,NA,NA,I,NA,Breast cancer,primary tumour,ductal
+1061,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+1062,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+1063,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+1064,NA,NA,I,NA,Breast cancer,primary tumour,apocrine
+1065,NA,NA,I,NA,Breast cancer,primary tumour,ductal
+1066,NA,NA,I,NA,Breast cancer,primary tumour,ductal
+1067,NA,NA,I,NA,Breast cancer,primary tumour,lobular
+1068,NA,NA,NA,NA,Breast cancer,primary tumour,lobular

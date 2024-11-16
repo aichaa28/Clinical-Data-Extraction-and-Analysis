@@ -30,7 +30,7 @@ For each dataset in the folder, extract and clean the following information:
 - **Sample Type:** Standardize to strings like "normal", "primary tumour".
 - **Tumour Subtype:** Standardize to strings like "serous", "endometrioid", "mucinous", etc.
 
-
+-**Final_dataset** is the dataset from the task 1 and **Final_dataset_model** also from the task 1 but with a new feature thatwill help me in the task 2
 - **Code:** The code used for data extraction and harmonization is included in the Jupyter Notebook `Extraction&Harmonization.ipynb`.
 - **Documentation:** Detailed explanations of the approach are included within the PDF document or the notebook as comments and markdown cells.
 
